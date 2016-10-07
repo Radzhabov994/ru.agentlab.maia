@@ -16,7 +16,6 @@ import javax.inject.Named;
 import org.semanticweb.owlapi.model.OWLAxiom;
 
 import ru.agentlab.maia.agent.IAgent;
-import ru.agentlab.maia.agent.IGoalBase;
 import ru.agentlab.maia.agent.IMessage;
 import ru.agentlab.maia.agent.IRole;
 import ru.agentlab.maia.agent.annotation.Optional;

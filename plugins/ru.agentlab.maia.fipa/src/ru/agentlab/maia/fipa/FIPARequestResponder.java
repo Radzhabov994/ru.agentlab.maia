@@ -1,4 +1,3 @@
-
 package ru.agentlab.maia.fipa;
 
 import static ru.agentlab.maia.fipa.FIPAPerformativeNames.AGREE;

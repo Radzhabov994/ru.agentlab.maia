@@ -1,4 +1,3 @@
-
 /*******************************************************************************
  * Copyright (c) 2016 AgentLab.
  * All rights reserved. This program and the accompanying materials

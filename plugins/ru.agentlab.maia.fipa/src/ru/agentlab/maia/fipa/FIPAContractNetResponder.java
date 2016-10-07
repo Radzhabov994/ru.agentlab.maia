@@ -10,8 +10,6 @@ package ru.agentlab.maia.fipa;
 import static ru.agentlab.maia.fipa.FIPAPerformativeNames.ACCEPT_PROPOSAL;
 import static ru.agentlab.maia.fipa.FIPAPerformativeNames.CANCEL;
 import static ru.agentlab.maia.fipa.FIPAPerformativeNames.CFP;
-import static ru.agentlab.maia.fipa.FIPAPerformativeNames.FAILURE;
-import static ru.agentlab.maia.fipa.FIPAPerformativeNames.INFORM;
 import static ru.agentlab.maia.fipa.FIPAPerformativeNames.NOT_UNDERSTOOD;
 import static ru.agentlab.maia.fipa.FIPAPerformativeNames.PROPOSE;
 import static ru.agentlab.maia.fipa.FIPAPerformativeNames.REFUSE;

@@ -1,6 +1,6 @@
 package ru.agentlab.maia.fipa;
 
-import org.semanticweb.owlapi.model.OWLIndividualAxiom;
+import ru.agentlab.maia.goal.IGoal;
 
 @FunctionalInterface
 public interface IGoalParser {
