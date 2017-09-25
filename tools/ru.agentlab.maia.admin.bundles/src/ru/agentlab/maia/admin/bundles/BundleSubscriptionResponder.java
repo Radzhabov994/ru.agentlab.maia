@@ -1,12 +1,12 @@
 package ru.agentlab.maia.admin.bundles;
 
-import static ru.agentlab.maia.service.message.fipa.FIPAPerformativeNames.AGREE;
-import static ru.agentlab.maia.service.message.fipa.FIPAPerformativeNames.CANCEL;
-import static ru.agentlab.maia.service.message.fipa.FIPAPerformativeNames.FAILURE;
-import static ru.agentlab.maia.service.message.fipa.FIPAPerformativeNames.INFORM;
-import static ru.agentlab.maia.service.message.fipa.FIPAPerformativeNames.REFUSE;
-import static ru.agentlab.maia.service.message.fipa.FIPAPerformativeNames.SUBSCRIBE;
-import static ru.agentlab.maia.service.message.fipa.FIPAProtocolNames.FIPA_SUBSCRIBE;
+import static ru.agentlab.maia.fipa.FIPAPerformativeNames.AGREE;
+import static ru.agentlab.maia.fipa.FIPAPerformativeNames.CANCEL;
+import static ru.agentlab.maia.fipa.FIPAPerformativeNames.FAILURE;
+import static ru.agentlab.maia.fipa.FIPAPerformativeNames.INFORM;
+import static ru.agentlab.maia.fipa.FIPAPerformativeNames.REFUSE;
+import static ru.agentlab.maia.fipa.FIPAPerformativeNames.SUBSCRIBE;
+import static ru.agentlab.maia.fipa.FIPAProtocolNames.FIPA_SUBSCRIBE;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -15,6 +15,12 @@ import ru.agentlab.maia.agent.annotation.OnOWLGoalFailed;
 import ru.agentlab.maia.service.message.IMessageDeliveryService;
 import ru.agentlab.maia.service.message.annotation.OnMessageReceived;
 import ru.agentlab.maia.service.message.fipa.FIPAPerformativeNames;
+import ru.agentlab.maia.agent.annotation.AxiomType;
+import ru.agentlab.maia.agent.annotation.OnGoalAdded;
+import ru.agentlab.maia.agent.annotation.OnOWLGoalFailed;
+import ru.agentlab.maia.fipa.FIPAPerformativeNames;
+import ru.agentlab.maia.message.IMessageDeliveryService;
+import ru.agentlab.maia.message.annotation.OnMessageReceived;
 
 public class BundleRequestResponder {
 
